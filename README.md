@@ -94,4 +94,4 @@ be it programming related or not"
 <a href="https://app.daily.dev/black_purple"><img src="https://api.daily.dev/devcards/2869e0c1367f4915b9078012bbc2e157.png?r=s2a" width="300" alt="Abderrahman DAKIR ALLAH's Dev Card"/></a>
 
 ### My github stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=black-purple)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=black-purple?theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
