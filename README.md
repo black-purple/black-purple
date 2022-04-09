@@ -31,6 +31,7 @@ be it programming related or not"
 
 ## Programming languages & Professional software
 
+
 * ### Programming languages and frameworks
     ![HTML](https://img.shields.io/static/v1?label=%20&message=HTML&color=%23E34F26&labelColor=%23ff000000&logo=HTML5)
     ![CSS](https://img.shields.io/static/v1?label=%20&message=CSS&color=%231572B6&labelColor=%23ff000000&logo=Css3&logoColor=%231572B6)
@@ -43,6 +44,7 @@ be it programming related or not"
     ![flutter](https://img.shields.io/static/v1?label=%20&message=Flutter&color=%2302569B&labelColor=%23ff000000&logo=flutter&logoColor=%2302569B)
     ![php](https://img.shields.io/static/v1?label=%20&message=PHP&color=%23777BB4&labelColor=%23ff000000&logo=php&logoColor=%23777BB4)
     ![kotlin](https://img.shields.io/static/v1?label=%20&message=Kotlin&color=%237F52FF&labelColor=%23ff000000&logo=kotlin&logoColor=%237F52FF)
+    ![markdown](https://img.shields.io/static/v1?label=%20&message=Markdown&color=%23fff&labelColor=%23ff000000&logo=markdown&logoColor=%23fff)
 
 * ### Professional software
     ![git](https://img.shields.io/static/v1?label=%20&message=Git&color=%23F05032&labelColor=%23ff000000&logo=git&logoColor=%23F05032)
@@ -90,3 +92,6 @@ be it programming related or not"
 
 ### My dev card
 <a href="https://app.daily.dev/black_purple"><img src="https://api.daily.dev/devcards/2869e0c1367f4915b9078012bbc2e157.png?r=s2a" width="300" alt="Abderrahman DAKIR ALLAH's Dev Card"/></a>
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=black-purple)](https://github.com/anuraghazra/github-readme-stats)
