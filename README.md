@@ -1,16 +1,70 @@
-### Hi there 👋
+# Intro
+```bash
+Hi there 👋
 
-<!--
-**black-purple/black-purple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[black-purple@github ~ ]$ whoami
 
-Here are some ideas to get you started:
+"My name is Abderrahman DAKIR ALLAH (a.k.a. black-purple on github, discord and other online platforms), I'm a software development student/developer currently living in Morocco."
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[black-purple@github ~ ]$ cat .bashrc
+
+alias aboutme="cat ~/about_me.txt"
+
+[black-purple@github ~ ]$ aboutme
+
+"I discovered my passion for software developement when I was 14 when I stumbeled upon the Pascal programming language, and since then I kept nourishing my curiosity on multiple topics be it programming related or not"
+```
+
+## Programming languages & Professional software
+
+* ### Programming languages and frameworks
+    ![HTML](https://img.shields.io/static/v1?label=%20&message=HTML&color=%23E34F26&labelColor=%23ff000000&logo=HTML5)
+    ![CSS](https://img.shields.io/static/v1?label=%20&message=CSS&color=%231572B6&labelColor=%23ff000000&logo=Css3&logoColor=%231572B6)
+    ![BootSTrap](https://img.shields.io/static/v1?label=%20&message=BootStrap&color=%237952B3&labelColor=%23ff000000&logo=BootStrap)
+    ![javaScript](https://img.shields.io/static/v1?label=%20&message=JavaScript&color=%23F7DF1E&labelColor=%23ff000000&logo=javaScript)
+    ![bash](https://img.shields.io/static/v1?label=%20&message=Bash&color=%234EAA25&labelColor=%23ff000000&logo=gnubash)
+    ![python](https://img.shields.io/static/v1?label=%20&message=Python&color=%23FFE873&labelColor=%23ff000000&logo=python&logoColor=%23FFE873)
+    ![c](https://img.shields.io/static/v1?label=%20&message=Clang&color=%23adadad&labelColor=%23ff000000&logo=c&)
+    ![dart](https://img.shields.io/static/v1?label=%20&message=Dart&color=%230175C2&labelColor=%23ff000000&logo=dart&logoColor=%230175C2)
+    ![flutter](https://img.shields.io/static/v1?label=%20&message=Flutter&color=%2302569B&labelColor=%23ff000000&logo=flutter&logoColor=%2302569B)
+    ![php](https://img.shields.io/static/v1?label=%20&message=PHP&color=%23777BB4&labelColor=%23ff000000&logo=php&logoColor=%23777BB4)
+    ![kotlin](https://img.shields.io/static/v1?label=%20&message=Kotlin&color=%237F52FF&labelColor=%23ff000000&logo=kotlin&logoColor=%237F52FF)
+
+* ### Professional software
+    ![vscode](https://img.shields.io/static/v1?label=%20&message=VScode&color=%23007ACC&labelColor=%23ff000000&logo=visualstudiocode&logoColor=%23007ACC)
+    ![msvs](https://img.shields.io/static/v1?label=%20&message=MS%20Visual%20Studio&color=%235C2D91&labelColor=%23ff000000&logo=visualstudio&logoColor=%235C2D91)
+    ![word](https://img.shields.io/static/v1?label=%20&message=MS%20Word&color=%232B579A&labelColor=%23ff000000&logo=microsoftword&logoColor=%232B579A)
+    ![excel](https://img.shields.io/static/v1?label=%20&message=MS%20Excel&color=%23217346&labelColor=%23ff000000&logo=microsoftexcel&logoColor=%23217346)
+    ![powerpoint](https://img.shields.io/static/v1?label=%20&message=MS%20PowerPoint&color=%23B7472A&labelColor=%23ff000000&logo=microsoftpowerpoint&logoColor=%23B7472A)
+    ![teams](https://img.shields.io/static/v1?label=%20&message=MS%20Teams&color=%236264A7&labelColor=%23ff000000&logo=microsoftteams&logoColor=%236264A7)
+    ![blender](https://img.shields.io/static/v1?label=%20&message=blender&color=%23F5792A&labelColor=%23ff000000&logo=blender&logoColor=%23F5792A)
+    ![unity3d](https://img.shields.io/static/v1?label=%20&message=Unity3d&color=%23FFFFFF&labelColor=%23ff000000&logo=unity&logoColor=%23FFFFFF)
+    ![illustrator](https://img.shields.io/static/v1?label=%20&message=Adobe%20Illustrator&color=%23FF9A00&labelColor=%23ff000000&logo=adobeillustrator&logoColor=%23FF9A00)
+    ![photoshop](https://img.shields.io/static/v1?label=%20&message=Adobe%20Photoshop&color=%2331A8FF&labelColor=%23ff000000&logo=adobephotoshop&logoColor=%2331A8FF)
+    ![premiere](https://img.shields.io/static/v1?label=%20&message=Adobe%20Premiere%20Pro&color=%239999FF&labelColor=%23ff000000&logo=adobepremierepro&logoColor=%239999FF)
+    ![android studio](https://img.shields.io/static/v1?label=%20&message=Android%20Studio&color=%233DDC84&labelColor=%23ff000000&logo=androidstudio&logoColor=%233DDC84)
+    ![pycharm](https://img.shields.io/static/v1?label=%20&message=Pycharm&color=%23EFE942&labelColor=%23ff000000&logo=pycharm&logoColor=%23EFE942)
+    ![intellij](https://img.shields.io/static/v1?label=%20&message=Intellij%20Idea&color=%23B22F59&labelColor=%23ff000000&logo=intellijidea&logoColor=%23B22F59)
+    ![vim](https://img.shields.io/static/v1?label=%20&message=Vim&color=%23019733&labelColor=%23ff000000&logo=vim&logoColor=%23019733)
+    ![neovim](https://img.shields.io/static/v1?label=%20&message=Neovim&color=%2357A143&labelColor=%23ff000000&logo=neovim&logoColor=%2357A143)
+    ![atom](https://img.shields.io/static/v1?label=%20&message=Atom&color=%2366595C&labelColor=%23ff000000&logo=atom&logoColor=%2366595C)
+    ![vmware](https://img.shields.io/static/v1?label=%20&message=VMware%20Workstation/Player&color=%23607078&labelColor=%23ff000000&logo=vmware&logoColor=%23607078)
+    ![vbox](https://img.shields.io/static/v1?label=%20&message=VirtualBox&color=%23183A61&labelColor=%23ff000000&logo=virtualbox&logoColor=%23183A61)
+
+* ### Linux distributions used
+    ![arch](https://img.shields.io/static/v1?label=%20&message=Arch%20linux&color=%231793D1&labelColor=%23ff000000&logo=archlinux&logoColor=%231793D1)
+    ![manjaro](https://img.shields.io/static/v1?label=%20&message=Manjaro&color=%2335BF5C&labelColor=%23ff000000&logo=manjaro&logoColor=%2335BF5C)
+    ![mint](https://img.shields.io/static/v1?label=%20&message=Linux%20Mint&color=%2387CF3E&labelColor=%23ff000000&logo=linuxmint&logoColor=%2387CF3E)
+    ![ubuntu](https://img.shields.io/static/v1?label=%20&message=Ubuntu&color=%23E95420&labelColor=%23ff000000&logo=ubuntu&logoColor=%23E95420)
+    ![deepin](https://img.shields.io/static/v1?label=%20&message=Deepin%20OS&color=%23007CFF&labelColor=%23ff000000&logo=deepin&logoColor=%23007CFF)
+    ![zorin](https://img.shields.io/static/v1?label=%20&message=Zorin%20OS&color=%230CC1F3&labelColor=%23ff000000&logo=zorin&logoColor=%230CC1F3)
+    ![elementary](https://img.shields.io/static/v1?label=%20&message=Elementary%20OS&color=%2364BAFF&labelColor=%23ff000000&logo=elementary&logoColor=%2364BAFF)
+    ![opensuse](https://img.shields.io/static/v1?label=%20&message=OpenSUSE&color=%2373BA25&labelColor=%23ff000000&logo=opensuse&logoColor=%2373BA25)
+    ![fedora](https://img.shields.io/static/v1?label=%20&message=Fedora&color=%2351A2DA&labelColor=%23ff000000&logo=fedora&logoColor=%2351A2DA)
+    ![kali](https://img.shields.io/static/v1?label=%20&message=Kali%20Linux&color=%23557C94&labelColor=%23ff000000&logo=kalilinux&logoColor=%23557C94)
+    ![kali](https://img.shields.io/static/v1?label=%20&message=Parrot%20Sec&color=%2304F2FC&labelColor=%23ff000000&logo=linux&logoColor=%2304F2FC)
+    ![tails](https://img.shields.io/static/v1?label=%20&message=Tails&color=%2356347C&labelColor=%23ff000000&logo=tails&logoColor=%2356347C)
+    ![qubes](https://img.shields.io/static/v1?label=%20&message=Qubes&color=%233874D8&labelColor=%23ff000000&logo=qubesos&logoColor=%233874D8)
+
+### My dev card
+<a href="https://app.daily.dev/black_purple"><img src="https://api.daily.dev/devcards/2869e0c1367f4915b9078012bbc2e157.png?r=s2a" width="300" alt="Abderrahman DAKIR ALLAH's Dev Card"/></a>
