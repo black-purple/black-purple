@@ -35,6 +35,10 @@ be it programming related or not"
     ![kotlin](https://img.shields.io/static/v1?label=%20&message=Kotlin&color=%237F52FF&labelColor=%23ff000000&logo=kotlin&logoColor=%237F52FF)
 
 * ### Professional software
+    ![git](https://img.shields.io/static/v1?label=%20&message=Git&color=%23F05032&labelColor=%23ff000000&logo=git&logoColor=%23F05032)
+    ![github](https://img.shields.io/static/v1?label=%20&message=GitHub&color=%23181717&labelColor=%23ff000000&logo=github&logoColor=%23fafafa)
+    ![github pages](https://img.shields.io/static/v1?label=%20&message=Github%20Pages&color=%23222222&labelColor=%23ff000000&logo=githubpages&logoColor=%23fafafa)
+    ![gitkraken](https://img.shields.io/static/v1?label=%20&message=GitKraken&color=%23179287&labelColor=%23ff000000&logo=gitkraken&logoColor=%23179287)
     ![vscode](https://img.shields.io/static/v1?label=%20&message=VScode&color=%23007ACC&labelColor=%23ff000000&logo=visualstudiocode&logoColor=%23007ACC)
     ![msvs](https://img.shields.io/static/v1?label=%20&message=MS%20Visual%20Studio&color=%235C2D91&labelColor=%23ff000000&logo=visualstudio&logoColor=%235C2D91)
     ![word](https://img.shields.io/static/v1?label=%20&message=MS%20Word&color=%232B579A&labelColor=%23ff000000&logo=microsoftword&logoColor=%232B579A)
@@ -52,8 +56,12 @@ be it programming related or not"
     ![vim](https://img.shields.io/static/v1?label=%20&message=Vim&color=%23019733&labelColor=%23ff000000&logo=vim&logoColor=%23019733)
     ![neovim](https://img.shields.io/static/v1?label=%20&message=Neovim&color=%2357A143&labelColor=%23ff000000&logo=neovim&logoColor=%2357A143)
     ![atom](https://img.shields.io/static/v1?label=%20&message=Atom&color=%2366595C&labelColor=%23ff000000&logo=atom&logoColor=%2366595C)
+    ![sublime](https://img.shields.io/static/v1?label=%20&message=Sublime%20text&color=%23FF9800&labelColor=%23ff000000&logo=sublimetext&logoColor=%23FF9800)
+    ![replit](https://img.shields.io/static/v1?label=%20&message=Replit&color=%23667881&labelColor=%23ff000000&logo=replit&logoColor=%23667881)
     ![vmware](https://img.shields.io/static/v1?label=%20&message=VMware%20Workstation/Player&color=%23607078&labelColor=%23ff000000&logo=vmware&logoColor=%23607078)
     ![vbox](https://img.shields.io/static/v1?label=%20&message=VirtualBox&color=%23183A61&labelColor=%23ff000000&logo=virtualbox&logoColor=%23183A61)
+    ![audacity](https://img.shields.io/static/v1?label=%20&message=Audacity&color=%230000CC&labelColor=%23ff000000&logo=audacity&logoColor=%230000CC)
+    ![alacritty](https://img.shields.io/static/v1?label=%20&message=Alacritty&color=%23F46D01&labelColor=%23ff000000&logo=alacritty&logoColor=%23F46D01)
 
 * ### Linux distributions used
     ![arch](https://img.shields.io/static/v1?label=%20&message=Arch%20linux&color=%231793D1&labelColor=%23ff000000&logo=archlinux&logoColor=%231793D1)
