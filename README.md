@@ -4,7 +4,9 @@ Hi there 👋
 
 [black-purple@github ~ ]$ whoami
 
-"My name is Abderrahman DAKIR ALLAH (a.k.a. black-purple on github, discord and other online platforms), I'm a software development student/developer currently living in Morocco."
+"My name is Abderrahman DAKIR ALLAH 
+(a.k.a. black-purple on github, discord and other online platforms), 
+I'm a software development student/developer currently living in Morocco."
 
 [black-purple@github ~ ]$ cat .bashrc
 
@@ -12,7 +14,9 @@ alias aboutme="cat ~/about_me.txt"
 
 [black-purple@github ~ ]$ aboutme
 
-"I discovered my passion for software developement when I was 14 when I stumbeled upon the Pascal programming language, and since then I kept nourishing my curiosity on multiple topics be it programming related or not"
+"I discovered my passion for software developement when I was 14,
+and since then I kept nourishing my curiosity on multiple topics 
+be it programming related or not"
 ```
 
 ## Programming languages & Professional software
