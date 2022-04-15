@@ -91,7 +91,7 @@ be it programming related or not"
     ![qubes](https://img.shields.io/static/v1?label=%20&message=Qubes&color=%233874D8&labelColor=%23ff000000&logo=qubesos&logoColor=%233874D8)
 
 ### My dev card
-<a href="https://app.daily.dev/black_purple"><img src="https://api.daily.dev/devcards/2869e0c1367f4915b9078012bbc2e157.png?r=q6f" width="300" alt="Abderrahman DAKIR ALLAH's Dev Card"/></a>
+<a href="https://app.daily.dev/black_purple"><img src="https://api.daily.dev/devcards/2869e0c1367f4915b9078012bbc2e157.png?r=3dq" width="400" alt="Abderrahman DAKIR ALLAH's Dev Card"/></a>
 
 ### My github stats
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=black-purple&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
