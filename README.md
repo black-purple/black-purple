@@ -8,15 +8,15 @@ Hi there 👋
 (a.k.a. black-purple on github, discord and other online platforms), 
 I'm a software development student/developer currently living in Morocco."
 
-[black-purple@github ~ ]$ ls -la
+[black-purple@github ~ ]$ ls -la | awk '{print $11}'
 
-drwx------ black-purple black-purple 4.0 KB Mon Apr  4 02:49:28 2022 .
-drwxr-xr-x root         root         4.0 KB Thu Mar 24 03:44:52 2022  ..
-.rw------- black-purple black-purple 5.7 KB Mon Mar 28 15:42:53 2022 .bash_history
-.rw-r--r-- black-purple black-purple  21 B  Sat Jan  8 19:31:11 2022 .bash_logout
-.rw-r--r-- black-purple black-purple 207 B  Sat Mar 26 02:41:47 2022 .bash_profile
-.rw-r--r-- black-purple black-purple 4.7 KB Sat Mar 26 02:41:47 2022 .bashrc
-.rw-r--r-- black-purple black-purple   0 B  Sat Apr  9 05:12:55 2022 about_me.txt
+.
+..
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+about_me.txt
 
 [black-purple@github ~ ]$ cat .bashrc
 
