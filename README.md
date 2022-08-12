@@ -45,6 +45,7 @@ be it programming related or not"
     ![php](https://img.shields.io/static/v1?label=%20&message=PHP&color=%23777BB4&labelColor=%23ff000000&logo=php&logoColor=%23777BB4)
     ![kotlin](https://img.shields.io/static/v1?label=%20&message=Kotlin&color=%237F52FF&labelColor=%23ff000000&logo=kotlin&logoColor=%237F52FF)
     ![markdown](https://img.shields.io/static/v1?label=%20&message=Markdown&color=%23fff&labelColor=%23ff000000&logo=markdown&logoColor=%23fff)
+    ![SCSS](https://img.shields.io/static/v1?label=%20&message=SASS&color=%23CC6699&labelColor=%23ff000000&logo=sass)
 
 * ### Professional software
     ![git](https://img.shields.io/static/v1?label=%20&message=Git&color=%23F05032&labelColor=%23ff000000&logo=git&logoColor=%23F05032)
