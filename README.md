@@ -59,6 +59,7 @@ be it programming related or not"
     ![github pages](https://img.shields.io/static/v1?label=%20&message=Github%20Pages&color=%23222222&labelColor=%23ff000000&logo=githubpages&logoColor=%23fafafa)
     ![gitkraken](https://img.shields.io/static/v1?label=%20&message=GitKraken&color=%23179287&labelColor=%23ff000000&logo=gitkraken&logoColor=%23179287)
     ![npm](https://img.shields.io/static/v1?label=%20&message=NPM&color=%23CB3837&labelColor=%23ff000000&logo=npm&logoColor=%23CB3837)
+    ![postman](https://img.shields.io/static/v1?label=%20&message=Postman&color=%23FF6C37&labelColor=%23ff000000&logo=postman&logoColor=%23FF6C37)
     ![vscode](https://img.shields.io/static/v1?label=%20&message=VScode&color=%23007ACC&labelColor=%23ff000000&logo=visualstudiocode&logoColor=%23007ACC)
     ![msvs](https://img.shields.io/static/v1?label=%20&message=MS%20Visual%20Studio&color=%235C2D91&labelColor=%23ff000000&logo=visualstudio&logoColor=%235C2D91)
     ![word](https://img.shields.io/static/v1?label=%20&message=MS%20Word&color=%232B579A&labelColor=%23ff000000&logo=microsoftword&logoColor=%232B579A)
