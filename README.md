@@ -48,10 +48,10 @@ be it programming related or not"
     ![markdown](https://img.shields.io/static/v1?label=%20&message=Markdown&color=%23fff&labelColor=%23ff000000&logo=markdown&logoColor=%23fff)
     ![SCSS](https://img.shields.io/static/v1?label=%20&message=SASS&color=%23CC6699&labelColor=%23ff000000&logo=sass)
     ![MySQL](https://img.shields.io/static/v1?label=%20&message=MySQL&color=%234479A1&labelColor=%23ff000000&logo=mysql)
-    ![NodeJS](https://img.shields.io/static/v1?label=%20&message=NodeJS&color=%23339933&labelColor=%23ff000000&logo=node.js)
+    ![MongoDB](https://img.shields.io/static/v1?label=%20&message=MongoDB&color=%2347A248&labelColor=%23ff000000&logo=mongodb)
     ![ExpressJS](https://img.shields.io/static/v1?label=%20&message=ExpressJS&color=%23000000&labelColor=%23ff000000&logo=express)
     ![ReactJS](https://img.shields.io/static/v1?label=%20&message=ReactJS&color=%2361DAFB&labelColor=%23ff000000&logo=react)
-    ![MongoDB](https://img.shields.io/static/v1?label=%20&message=MongoDB&color=%2347A248&labelColor=%23ff000000&logo=mongodb)
+    ![NodeJS](https://img.shields.io/static/v1?label=%20&message=NodeJS&color=%23339933&labelColor=%23ff000000&logo=node.js)
 
 * ### Professional software
     ![git](https://img.shields.io/static/v1?label=%20&message=Git&color=%23F05032&labelColor=%23ff000000&logo=git&logoColor=%23F05032)
