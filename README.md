@@ -41,6 +41,7 @@ be it programming related or not"
     ![bash](https://img.shields.io/static/v1?label=%20&message=Bash&color=%234EAA25&labelColor=%23ff000000&logo=gnubash)
     ![python](https://img.shields.io/static/v1?label=%20&message=Python&color=%23FFE873&labelColor=%23ff000000&logo=python&logoColor=%23FFE873)
     ![c](https://img.shields.io/static/v1?label=%20&message=Clang&color=%23adadad&labelColor=%23ff000000&logo=c&)
+    ![java](https://img.shields.io/static/v1?label=%20&message=Java&color=%23FF7800&labelColor=%23ff000000&logo=coffeescript&logoColor=%23FF7800)
     ![dart](https://img.shields.io/static/v1?label=%20&message=Dart&color=%230175C2&labelColor=%23ff000000&logo=dart&logoColor=%230175C2)
     ![flutter](https://img.shields.io/static/v1?label=%20&message=Flutter&color=%2302569B&labelColor=%23ff000000&logo=flutter&logoColor=%2302569B)
     ![php](https://img.shields.io/static/v1?label=%20&message=PHP&color=%23777BB4&labelColor=%23ff000000&logo=php&logoColor=%23777BB4)
