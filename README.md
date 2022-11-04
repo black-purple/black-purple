@@ -32,7 +32,7 @@ be it programming related or not"
 # What I use
 
 
-* ### Programming languages and frameworks
+* ### I code with =>
     ![HTML](https://img.shields.io/static/v1?label=%20&message=HTML&color=%23E34F26&labelColor=%23ff000000&logo=HTML5)
     ![CSS](https://img.shields.io/static/v1?label=%20&message=CSS&color=%231572B6&labelColor=%23ff000000&logo=Css3&logoColor=%231572B6)
     ![BootSTrap](https://img.shields.io/static/v1?label=%20&message=BootStrap&color=%237952B3&labelColor=%23ff000000&logo=BootStrap)
@@ -54,7 +54,7 @@ be it programming related or not"
     ![ReactJS](https://img.shields.io/static/v1?label=%20&message=ReactJS&color=%2361DAFB&labelColor=%23ff000000&logo=react)
     ![NodeJS](https://img.shields.io/static/v1?label=%20&message=NodeJS&color=%23339933&labelColor=%23ff000000&logo=node.js)
 
-* ### Professional software
+* ### I work with =>
     ![git](https://img.shields.io/static/v1?label=%20&message=Git&color=%23F05032&labelColor=%23ff000000&logo=git&logoColor=%23F05032)
     ![github](https://img.shields.io/static/v1?label=%20&message=GitHub&color=%23181717&labelColor=%23ff000000&logo=github&logoColor=%23fafafa)
     ![github pages](https://img.shields.io/static/v1?label=%20&message=Github%20Pages&color=%23222222&labelColor=%23ff000000&logo=githubpages&logoColor=%23fafafa)
@@ -85,7 +85,7 @@ be it programming related or not"
     ![audacity](https://img.shields.io/static/v1?label=%20&message=Audacity&color=%230000CC&labelColor=%23ff000000&logo=audacity&logoColor=%230000CC)
     ![alacritty](https://img.shields.io/static/v1?label=%20&message=Alacritty&color=%23F46D01&labelColor=%23ff000000&logo=alacritty&logoColor=%23F46D01)
 
-* ### Linux distributions used
+* ### I distro hopped between =>
     ![arch](https://img.shields.io/static/v1?label=%20&message=Arch%20linux&color=%231793D1&labelColor=%23ff000000&logo=archlinux&logoColor=%231793D1)
     ![manjaro](https://img.shields.io/static/v1?label=%20&message=Manjaro&color=%2335BF5C&labelColor=%23ff000000&logo=manjaro&logoColor=%2335BF5C)
     ![mint](https://img.shields.io/static/v1?label=%20&message=Linux%20Mint&color=%2387CF3E&labelColor=%23ff000000&logo=linuxmint&logoColor=%2387CF3E)
