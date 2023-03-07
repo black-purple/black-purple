@@ -54,7 +54,7 @@ be it programming related or not"
     ![markdown](https://img.shields.io/static/v1?label=%20&message=Markdown&color=%23fff&labelColor=%23ff000000&logo=markdown&logoColor=%23fff)
     ![MongoDB](https://img.shields.io/static/v1?label=%20&message=MongoDB&color=%2347A248&labelColor=%23ff000000&logo=mongodb)
     ![ExpressJS](https://img.shields.io/static/v1?label=%20&message=ExpressJS&color=%23000000&labelColor=%23ff000000&logo=express)
-    ![ReactJS](https://img.shields.io/static/v1?label=%20&message=ReactJS&color=%2361DAFB&labelColor=%23ff000000&logo=react)
+    ![SvelteJS](https://img.shields.io/static/v1?label=%20&message=Svelte&color=%23FF3E00&labelColor=%23ff000000&logo=svelte)
     ![NodeJS](https://img.shields.io/static/v1?label=%20&message=NodeJS&color=%23339933&labelColor=%23ff000000&logo=node.js)
 
 * ### I work with ->
@@ -72,6 +72,7 @@ be it programming related or not"
     ![powerpoint](https://img.shields.io/static/v1?label=%20&message=MS%20PowerPoint&color=%23B7472A&labelColor=%23ff000000&logo=microsoftpowerpoint&logoColor=%23B7472A)
     ![teams](https://img.shields.io/static/v1?label=%20&message=MS%20Teams&color=%236264A7&labelColor=%23ff000000&logo=microsoftteams&logoColor=%236264A7)
     ![blender](https://img.shields.io/static/v1?label=%20&message=blender&color=%23F5792A&labelColor=%23ff000000&logo=blender&logoColor=%23F5792A)
+    ![figma](https://img.shields.io/static/v1?label=%20&message=Figma&color=%23fff&labelColor=%23ff000000&logo=figma&logoColor=%23fff)
     ![unity3d](https://img.shields.io/static/v1?label=%20&message=Unity3d&color=%23FFFFFF&labelColor=%23ff000000&logo=unity&logoColor=%23FFFFFF)
     ![illustrator](https://img.shields.io/static/v1?label=%20&message=Adobe%20Illustrator&color=%23FF9A00&labelColor=%23ff000000&logo=adobeillustrator&logoColor=%23FF9A00)
     ![photoshop](https://img.shields.io/static/v1?label=%20&message=Adobe%20Photoshop&color=%2331A8FF&labelColor=%23ff000000&logo=adobephotoshop&logoColor=%2331A8FF)
