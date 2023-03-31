@@ -61,6 +61,7 @@ be it programming related or not"
     ![git](https://img.shields.io/static/v1?label=%20&message=Git&color=%23F05032&labelColor=%23ff000000&logo=git&logoColor=%23F05032)
     ![github](https://img.shields.io/static/v1?label=%20&message=GitHub&color=%23181717&labelColor=%23ff000000&logo=github&logoColor=%23000000)
     ![github pages](https://img.shields.io/static/v1?label=%20&message=Github%20Pages&color=%23222222&labelColor=%23ff000000&logo=githubpages&logoColor=%23fafafa)
+    ![Firebase](https://img.shields.io/static/v1?label=%20&message=Firebase&color=%23FFCA28&labelColor=%23ff000000&logo=firebase)
     ![gitkraken](https://img.shields.io/static/v1?label=%20&message=GitKraken&color=%23179287&labelColor=%23ff000000&logo=gitkraken&logoColor=%23179287)
     ![docker](https://img.shields.io/static/v1?label=%20&message=Docker&color=%232496ED&labelColor=%23ff000000&logo=docker&logoColor=%232496ED)
     ![npm](https://img.shields.io/static/v1?label=%20&message=NPM&color=%23CB3837&labelColor=%23ff000000&logo=npm&logoColor=%23CB3837)
