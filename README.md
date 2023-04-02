@@ -54,7 +54,7 @@ be it programming related or not"
     ![markdown](https://img.shields.io/static/v1?label=%20&message=Markdown&color=%23fff&labelColor=%23ff000000&logo=markdown&logoColor=%23fff)
     ![MongoDB](https://img.shields.io/static/v1?label=%20&message=MongoDB&color=%2347A248&labelColor=%23ff000000&logo=mongodb)
     ![ExpressJS](https://img.shields.io/static/v1?label=%20&message=ExpressJS&color=%23000000&labelColor=%23ff000000&logo=express)
-    ![SvelteJS](https://img.shields.io/static/v1?label=%20&message=Svelte&color=%23FF3E00&labelColor=%23ff000000&logo=svelte)
+    ![SvelteJS](https://img.shields.io/static/v1?label=%20&message=SvelteJS&color=%23FF3E00&labelColor=%23ff000000&logo=svelte)
     ![NodeJS](https://img.shields.io/static/v1?label=%20&message=NodeJS&color=%23339933&labelColor=%23ff000000&logo=node.js)
 
 * ### I work with ->
