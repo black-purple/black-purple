@@ -21,6 +21,7 @@ about_me.txt
 [black-purple@github ~ ]$ cat .bashrc
 
 alias aboutme="cat ~/about_me.txt"
+echo "Hi there 👋"
 
 [black-purple@github ~ ]$ aboutme
 
