@@ -1,15 +1,11 @@
 # Intro
 ```bash
 Hi there 👋
-
 [black-purple@github ~ ]$ whoami
-
 "My name is Abderrahman DAKIR ALLAH 
 (a.k.a. black-purple on github, discord and other online platforms), 
 I'm a software development student/developer currently living in Morocco."
-
 [black-purple@github ~ ]$ ls -la | awk '{print $11}'
-
 .
 ..
 .bash_history
@@ -17,14 +13,10 @@ I'm a software development student/developer currently living in Morocco."
 .bash_profile
 .bashrc
 about_me.txt
-
 [black-purple@github ~ ]$ cat .bashrc
-
 alias aboutme="cat ~/about_me.txt"
 echo "Hi there 👋"
-
 [black-purple@github ~ ]$ aboutme
-
 "I discovered my passion for software developement when I was 14,
 and since then I kept nourishing my curiosity on multiple topics 
 be it programming related or not"
