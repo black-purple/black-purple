@@ -46,6 +46,8 @@ be it programming related or not"
     ![csharp](https://img.shields.io/static/v1?label=%20&message=Csharp&color=%23239120&labelColor=%23ff000000&logo=csharp&logoColor=%23239120)
     ![java](https://img.shields.io/static/v1?label=%20&message=Java&color=%23FF7800&labelColor=%23ff000000&logo=coffeescript&logoColor=%23FF7800)
     ![kotlin](https://img.shields.io/static/v1?label=%20&message=Kotlin&color=%237F52FF&labelColor=%23ff000000&logo=kotlin&logoColor=%237F52FF)
+    ![compose](https://img.shields.io/static/v1?label=%20&message=Jetpack%20Compose&color=%234285F4&labelColor=%23ff000000&logo=jetpackcompose&logoColor=%234285F4)
+    ![swift](https://img.shields.io/static/v1?label=%20&message=Swift&color=%23F05138&labelColor=%23ff000000&logo=swift&logoColor=%23F05138)
     ![dart](https://img.shields.io/static/v1?label=%20&message=Dart&color=%230175C2&labelColor=%23ff000000&logo=dart&logoColor=%230175C2)
     ![flutter](https://img.shields.io/static/v1?label=%20&message=Flutter&color=%2302569B&labelColor=%23ff000000&logo=flutter&logoColor=%2302569B)
     ![php](https://img.shields.io/static/v1?label=%20&message=PHP&color=%23777BB4&labelColor=%23ff000000&logo=php&logoColor=%23777BB4)
