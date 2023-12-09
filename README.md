@@ -8,8 +8,6 @@ I'm a software development student/developer currently living in Morocco."
 [black-purple@github ~ ]$ ls -la | awk '{print $11}'
 .
 ..
-.bash_history
-.bash_logout
 .bash_profile
 .bashrc
 about_me.txt
