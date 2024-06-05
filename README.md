@@ -44,6 +44,7 @@ be it programming related or not"
     ![php](https://img.shields.io/static/v1?label=%20&message=PHP&color=%23777BB4&labelColor=%23ff000000&logo=php&logoColor=%23777BB4)
     ![laravel](https://img.shields.io/static/v1?label=%20&message=Laravel&color=%23FF2D20&labelColor=%23ff000000&logo=laravel&logoColor=%23FF2D20)
     ![MySQL](https://img.shields.io/static/v1?label=%20&message=MySQL&color=%234479A1&labelColor=%23ff000000&logo=mysql)
+    ![SQLite](https://img.shields.io/static/v1?label=%20&message=SQLite&color=%23003B57&labelColor=%23ff000000&logo=sqlite&logoColor=%23003B57)
     ![markdown](https://img.shields.io/static/v1?label=%20&message=Markdown&color=%23fff&labelColor=%23ff000000&logo=markdown&logoColor=%23fff)
     ![MongoDB](https://img.shields.io/static/v1?label=%20&message=MongoDB&color=%2347A248&labelColor=%23ff000000&logo=mongodb)
     ![ExpressJS](https://img.shields.io/static/v1?label=%20&message=ExpressJS&color=%23000000&labelColor=%23ff000000&logo=express)
@@ -53,6 +54,7 @@ be it programming related or not"
 * ### I work with ->
     ![git](https://img.shields.io/static/v1?label=%20&message=Git&color=%23F05032&labelColor=%23ff000000&logo=git&logoColor=%23F05032)
     ![github](https://img.shields.io/static/v1?label=%20&message=GitHub&color=%23181717&labelColor=%23ff000000&logo=github&logoColor=%23000000)
+    ![azuredevops](https://img.shields.io/static/v1?label=%20&message=Azure%20DevOps&color=%230078D7&labelColor=%23ff000000&logo=azuredevops&logoColor=%230078D7)
     ![github pages](https://img.shields.io/static/v1?label=%20&message=Github%20Pages&color=%23222222&labelColor=%23ff000000&logo=githubpages&logoColor=%23fafafa)
     ![Firebase](https://img.shields.io/static/v1?label=%20&message=Firebase&color=%23FFCA28&labelColor=%23ff000000&logo=firebase)
     ![gitkraken](https://img.shields.io/static/v1?label=%20&message=GitKraken&color=%23179287&labelColor=%23ff000000&logo=gitkraken&logoColor=%23179287)
