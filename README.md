@@ -75,6 +75,7 @@ be it programming related or not"
     ![photoshop](https://img.shields.io/static/v1?label=%20&message=Adobe%20Photoshop&color=%2331A8FF&labelColor=%23ff000000&logo=adobephotoshop&logoColor=%2331A8FF)
     ![premiere](https://img.shields.io/static/v1?label=%20&message=Adobe%20Premiere%20Pro&color=%239999FF&labelColor=%23ff000000&logo=adobepremierepro&logoColor=%239999FF)
     ![android studio](https://img.shields.io/static/v1?label=%20&message=Android%20Studio&color=%233DDC84&labelColor=%23ff000000&logo=androidstudio&logoColor=%233DDC84)
+    ![xcode](https://img.shields.io/static/v1?label=%20&message=Xcode&color=%23147EFB&labelColor=%23ff000000&logo=xcode&logoColor=%23#147EFB)
     ![pycharm](https://img.shields.io/static/v1?label=%20&message=Pycharm&color=%23EFE942&labelColor=%23ff000000&logo=pycharm&logoColor=%23EFE942)
     ![intellij](https://img.shields.io/static/v1?label=%20&message=Intellij%20Idea&color=%23B22F59&labelColor=%23ff000000&logo=intellijidea&logoColor=%23B22F59)
     ![vim](https://img.shields.io/static/v1?label=%20&message=Vim&color=%23019733&labelColor=%23ff000000&logo=vim&logoColor=%23019733)
