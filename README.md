@@ -46,6 +46,7 @@ be it programming related or not"
     ![MySQL](https://img.shields.io/static/v1?label=%20&message=MySQL&color=%234479A1&labelColor=%23ff000000&logo=mysql)
     ![SQLite](https://img.shields.io/static/v1?label=%20&message=SQLite&color=%23003B57&labelColor=%23ff000000&logo=sqlite&logoColor=%23003B57)
     ![markdown](https://img.shields.io/static/v1?label=%20&message=Markdown&color=%23fff&labelColor=%23ff000000&logo=markdown&logoColor=%23fff)
+    ![mermaid](https://img.shields.io/static/v1?label=%20&message=Mermaid&color=%23FF3670&labelColor=%23ff000000&logo=mermaid&logoColor=%23FF3670)
     ![MongoDB](https://img.shields.io/static/v1?label=%20&message=MongoDB&color=%2347A248&labelColor=%23ff000000&logo=mongodb)
     ![ExpressJS](https://img.shields.io/static/v1?label=%20&message=ExpressJS&color=%23000000&labelColor=%23ff000000&logo=express)
     ![SvelteJS](https://img.shields.io/static/v1?label=%20&message=SvelteJS&color=%23FF3E00&labelColor=%23ff000000&logo=svelte)
