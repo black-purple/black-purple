@@ -4,7 +4,7 @@ Hi there 👋
 [black-purple@github ~ ]$ whoami
 "My name is Abderrahman DAKIR ALLAH 
 (a.k.a. black-purple on github, discord and other online platforms), 
-I'm a software development student/developer currently living in Morocco."
+I'm a software engineer based in Morocco."
 [black-purple@github ~ ]$ ls -la | awk '{print $11}'
 .
 ..
