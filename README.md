@@ -20,6 +20,11 @@ and since then I kept nourishing my curiosity on multiple topics
 be it programming related or not"
 ```
 
+# What I do
+I make mobile apps with ![dart](https://img.shields.io/static/v1?label=%20&message=Dart&color=%230175C2&labelColor=%23ff000000&logo=dart&logoColor=%230175C2) and ![flutter](https://img.shields.io/static/v1?label=%20&message=Flutter&color=%2302569B&labelColor=%23ff000000&logo=flutter&logoColor=%2302569B). 
+
+I fiddle with other technologies to stay up to date and make some hobby side porjects.
+
 # What I use
 
 
