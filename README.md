@@ -54,8 +54,9 @@ I fiddle with other technologies to stay up to date and make some hobby side pro
     ![mermaid](https://img.shields.io/static/v1?label=%20&message=Mermaid&color=%23FF3670&labelColor=%23ff000000&logo=mermaid&logoColor=%23FF3670)
     ![MongoDB](https://img.shields.io/static/v1?label=%20&message=MongoDB&color=%2347A248&labelColor=%23ff000000&logo=mongodb)
     ![ExpressJS](https://img.shields.io/static/v1?label=%20&message=ExpressJS&color=%23000000&labelColor=%23ff000000&logo=express)
-    ![SvelteJS](https://img.shields.io/static/v1?label=%20&message=SvelteJS&color=%23FF3E00&labelColor=%23ff000000&logo=svelte)
+    ![SvelteKit](https://img.shields.io/static/v1?label=%20&message=SvelteKit&color=%23FF3E00&labelColor=%23ff000000&logo=svelte)
     ![NextJS](https://img.shields.io/static/v1?label=%20&message=NextJS&color=%23000000&labelColor=%23ff000000&logo=next.js)
+    ![PayloadCMS](https://img.shields.io/static/v1?label=%20&message=PayloadCMS&color=%23000000&labelColor=%23ff000000&logo=payloadcms)
     ![NodeJS](https://img.shields.io/static/v1?label=%20&message=NodeJS&color=%23339933&labelColor=%23ff000000&logo=node.js)
 
 * ### I work with ->
