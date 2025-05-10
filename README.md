@@ -39,7 +39,7 @@ I fiddle with other technologies to stay up to date and make some hobby side pro
     ![bash](https://img.shields.io/static/v1?label=%20&message=Bash&color=%234EAA25&labelColor=%23ff000000&logo=gnubash)
     ![python](https://img.shields.io/static/v1?label=%20&message=Python&color=%23FFE873&labelColor=%23ff000000&logo=python&logoColor=%23FFE873)
     ![c](https://img.shields.io/static/v1?label=%20&message=Clang&color=%23adadad&labelColor=%23ff000000&logo=c&)
-    ![csharp](https://img.shields.io/static/v1?label=%20&message=Csharp&color=%23239120&labelColor=%23ff000000&logo=csharp&logoColor=%23239120)
+    ![csharp](https://img.shields.io/static/v1?label=%20&message=C%23&color=%23239120&labelColor=%23ff000000&logo=csharp&logoColor=%23239120)
     ![java](https://img.shields.io/static/v1?label=%20&message=Java&color=%23FF7800&labelColor=%23ff000000&logo=coffeescript&logoColor=%23FF7800)
     ![kotlin](https://img.shields.io/static/v1?label=%20&message=Kotlin&color=%237F52FF&labelColor=%23ff000000&logo=kotlin&logoColor=%237F52FF)
     ![compose](https://img.shields.io/static/v1?label=%20&message=Jetpack%20Compose&color=%234285F4&labelColor=%23ff000000&logo=jetpackcompose&logoColor=%234285F4)
