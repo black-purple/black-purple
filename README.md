@@ -53,11 +53,12 @@ I fiddle with other technologies to stay up to date and make some hobby side pro
     ![markdown](https://img.shields.io/static/v1?label=%20&message=Markdown&color=%23fff&labelColor=%23ff000000&logo=markdown&logoColor=%23fff)
     ![mermaid](https://img.shields.io/static/v1?label=%20&message=Mermaid&color=%23FF3670&labelColor=%23ff000000&logo=mermaid&logoColor=%23FF3670)
     ![MongoDB](https://img.shields.io/static/v1?label=%20&message=MongoDB&color=%2347A248&labelColor=%23ff000000&logo=mongodb)
-    ![ExpressJS](https://img.shields.io/static/v1?label=%20&message=ExpressJS&color=%23000000&labelColor=%23ff000000&logo=express)
+    ![ExpressJS](https://img.shields.io/static/v1?label=%20&message=Express.js&color=%23000000&labelColor=%23ff000000&logo=express)
+    ![HonoJS](https://img.shields.io/static/v1?label=%20&message=Hono.js&color=%23E36002&labelColor=%23ff000000&logo=hono)
     ![SvelteKit](https://img.shields.io/static/v1?label=%20&message=SvelteKit&color=%23FF3E00&labelColor=%23ff000000&logo=svelte)
-    ![NextJS](https://img.shields.io/static/v1?label=%20&message=NextJS&color=%23000000&labelColor=%23ff000000&logo=next.js)
+    ![NextJS](https://img.shields.io/static/v1?label=%20&message=Next.js&color=%23000000&labelColor=%23ff000000&logo=next.js)
     ![PayloadCMS](https://img.shields.io/static/v1?label=%20&message=PayloadCMS&color=%23000000&labelColor=%23ff000000&logo=payloadcms)
-    ![NodeJS](https://img.shields.io/static/v1?label=%20&message=NodeJS&color=%23339933&labelColor=%23ff000000&logo=node.js)
+    ![NodeJS](https://img.shields.io/static/v1?label=%20&message=Node.js&color=%23339933&labelColor=%23ff000000&logo=node.js)
 
 * ### I work with ->
     ![git](https://img.shields.io/static/v1?label=%20&message=Git&color=%23F05032&labelColor=%23ff000000&logo=git&logoColor=%23F05032)
