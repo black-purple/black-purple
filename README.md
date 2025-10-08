@@ -17,13 +17,18 @@ echo "Hi there 👋"
 [black-purple@github ~ ]$ aboutme
 "I discovered my passion for software developement when I was 14,
 and since then I kept nourishing my curiosity on multiple topics 
-be it programming related or not"
+be it software related or not
+
+
+--------- I use Arch BTW ---------"
 ```
 
 # What I do
-I make mobile apps with ![dart](https://img.shields.io/static/v1?label=%20&message=Dart&color=%230175C2&labelColor=%23ff000000&logo=dart&logoColor=%230175C2) and ![flutter](https://img.shields.io/static/v1?label=%20&message=Flutter&color=%2302569B&labelColor=%23ff000000&logo=flutter&logoColor=%2302569B). 
+I am a software engineer who makes mobile apps using ![dart](https://img.shields.io/static/v1?label=%20&message=Dart&color=%230175C2&labelColor=%23ff000000&logo=dart&logoColor=%230175C2) and ![flutter](https://img.shields.io/static/v1?label=%20&message=Flutter&color=%2302569B&labelColor=%23ff000000&logo=flutter&logoColor=%2302569B)
 
-I fiddle with other technologies to stay up to date and make some hobby side projects.
+I also make backends using ![Express.js](https://img.shields.io/static/v1?label=%20&message=Express.js&color=%23000000&labelColor=%23ff000000&logo=express) - ![Hono.js](https://img.shields.io/static/v1?label=%20&message=Hono.js&color=%23E36002&labelColor=%23ff000000&logo=hono) - ![PayloadCMS](https://img.shields.io/static/v1?label=%20&message=PayloadCMS&color=%23000000&labelColor=%23ff000000&logo=payloadcms) - ![Nest.js](https://img.shields.io/static/v1?label=%20&message=Nest.js&color=%23E0234E&logoColor=%23E0234E&labelColor=%23ff000000&logo=nestjs)
+
+I fiddle with other technologies to stay up to date and make some hobby side projects
 
 # What I use
 
@@ -35,6 +40,7 @@ I fiddle with other technologies to stay up to date and make some hobby side pro
     ![Tailwind](https://img.shields.io/static/v1?label=%20&message=Tailwind&color=%2306B6D4&labelColor=%23ff000000&logo=tailwindcss)
     ![SCSS](https://img.shields.io/static/v1?label=%20&message=SASS&color=%23CC6699&labelColor=%23ff000000&logo=sass)
     ![javaScript](https://img.shields.io/static/v1?label=%20&message=JavaScript&color=%23F7DF1E&labelColor=%23ff000000&logo=javaScript)
+    ![typeScript](https://img.shields.io/static/v1?label=%20&message=TypeScript&color=%233178C6&labelColor=%23ff000000&logo=typescript)
     ![jquery](https://img.shields.io/static/v1?label=%20&message=JQuery&color=%230769AD&logoColor=%230769AD&labelColor=%23ff000000&logo=jquery)
     ![bash](https://img.shields.io/static/v1?label=%20&message=Bash&color=%234EAA25&labelColor=%23ff000000&logo=gnubash)
     ![python](https://img.shields.io/static/v1?label=%20&message=Python&color=%23FFE873&labelColor=%23ff000000&logo=python&logoColor=%23FFE873)
@@ -53,12 +59,13 @@ I fiddle with other technologies to stay up to date and make some hobby side pro
     ![markdown](https://img.shields.io/static/v1?label=%20&message=Markdown&color=%23fff&labelColor=%23ff000000&logo=markdown&logoColor=%23fff)
     ![mermaid](https://img.shields.io/static/v1?label=%20&message=Mermaid&color=%23FF3670&labelColor=%23ff000000&logo=mermaid&logoColor=%23FF3670)
     ![MongoDB](https://img.shields.io/static/v1?label=%20&message=MongoDB&color=%2347A248&labelColor=%23ff000000&logo=mongodb)
-    ![ExpressJS](https://img.shields.io/static/v1?label=%20&message=Express.js&color=%23000000&labelColor=%23ff000000&logo=express)
-    ![HonoJS](https://img.shields.io/static/v1?label=%20&message=Hono.js&color=%23E36002&labelColor=%23ff000000&logo=hono)
+    ![Express.js](https://img.shields.io/static/v1?label=%20&message=Express.js&color=%23000000&labelColor=%23ff000000&logo=express)
+    ![Hono.js](https://img.shields.io/static/v1?label=%20&message=Hono.js&color=%23E36002&labelColor=%23ff000000&logo=hono)
     ![SvelteKit](https://img.shields.io/static/v1?label=%20&message=SvelteKit&color=%23FF3E00&labelColor=%23ff000000&logo=svelte)
-    ![NextJS](https://img.shields.io/static/v1?label=%20&message=Next.js&color=%23000000&labelColor=%23ff000000&logo=next.js)
+    ![Next.js](https://img.shields.io/static/v1?label=%20&message=Next.js&color=%23000000&labelColor=%23ff000000&logo=next.js)
+    ![Nest.js](https://img.shields.io/static/v1?label=%20&message=Nest.js&color=%23E0234E&logoColor=%23E0234E&labelColor=%23ff000000&logo=nestjs)
     ![PayloadCMS](https://img.shields.io/static/v1?label=%20&message=PayloadCMS&color=%23000000&labelColor=%23ff000000&logo=payloadcms)
-    ![NodeJS](https://img.shields.io/static/v1?label=%20&message=Node.js&color=%23339933&labelColor=%23ff000000&logo=node.js)
+    ![Node.js](https://img.shields.io/static/v1?label=%20&message=Node.js&color=%23339933&labelColor=%23ff000000&logo=node.js)
 
 * ### I work with ->
     ![git](https://img.shields.io/static/v1?label=%20&message=Git&color=%23F05032&labelColor=%23ff000000&logo=git&logoColor=%23F05032)
@@ -69,6 +76,7 @@ I fiddle with other technologies to stay up to date and make some hobby side pro
     ![docker](https://img.shields.io/static/v1?label=%20&message=Docker&color=%232496ED&labelColor=%23ff000000&logo=docker&logoColor=%232496ED)
     ![npm](https://img.shields.io/static/v1?label=%20&message=NPM&color=%23CB3837&labelColor=%23ff000000&logo=npm&logoColor=%23CB3837)
     ![postman](https://img.shields.io/static/v1?label=%20&message=Postman&color=%23FF6C37&labelColor=%23ff000000&logo=postman&logoColor=%23FF6C37)
+    ![insomnia](https://img.shields.io/static/v1?label=%20&message=Insomnia&color=%234000BF&labelColor=%23ff000000&logo=insomnia&logoColor=%234000BF)
     ![vscode](https://img.shields.io/static/v1?label=%20&message=VScode&color=%23007ACC&labelColor=%23ff000000&logo=visualstudiocode&logoColor=%23007ACC)
     ![blender](https://img.shields.io/static/v1?label=%20&message=blender&color=%23F5792A&labelColor=%23ff000000&logo=blender&logoColor=%23F5792A)
     ![figma](https://img.shields.io/static/v1?label=%20&message=Figma&color=%23fff&labelColor=%23ff000000&logo=figma&logoColor=%23fff)
