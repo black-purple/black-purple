@@ -106,7 +106,7 @@ I fiddle with other technologies to stay up to date and make some hobby side pro
     ![opensuse](https://img.shields.io/static/v1?label=%20&message=OpenSUSE&color=%2373BA25&labelColor=%23ff000000&logo=opensuse&logoColor=%2373BA25)
     ![fedora](https://img.shields.io/static/v1?label=%20&message=Fedora&color=%2351A2DA&labelColor=%23ff000000&logo=fedora&logoColor=%2351A2DA)
     ![kali](https://img.shields.io/static/v1?label=%20&message=Kali%20Linux&color=%23557C94&labelColor=%23ff000000&logo=kalilinux&logoColor=%23557C94)
-    ![kali](https://img.shields.io/static/v1?label=%20&message=Parrot%20Sec&color=%2304F2FC&labelColor=%23ff000000&logo=linux&logoColor=%2304F2FC)
+    ![kali](https://img.shields.io/static/v1?label=%20&message=Parrot%20Security&color=%2315E0ED&labelColor=%23ff000000&logo=parrotsecurity&logoColor=%2315E0ED)
     ![tails](https://img.shields.io/static/v1?label=%20&message=Tails&color=%2356347C&labelColor=%23ff000000&logo=tails&logoColor=%2356347C)
     ![qubes](https://img.shields.io/static/v1?label=%20&message=Qubes&color=%233874D8&labelColor=%23ff000000&logo=qubesos&logoColor=%233874D8)
 
