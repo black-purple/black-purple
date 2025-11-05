@@ -79,6 +79,7 @@ I fiddle with other technologies to stay up to date and make some hobby side pro
     ![insomnia](https://img.shields.io/static/v1?label=%20&message=Insomnia&color=%234000BF&labelColor=%23ff000000&logo=insomnia&logoColor=%234000BF)
     ![vscode](https://img.shields.io/static/v1?label=%20&message=VScode&color=%23007ACC&labelColor=%23ff000000&logo=visualstudiocode&logoColor=%23007ACC)
     ![blender](https://img.shields.io/static/v1?label=%20&message=blender&color=%23F5792A&labelColor=%23ff000000&logo=blender&logoColor=%23F5792A)
+    ![affinity](https://img.shields.io/static/v1?label=%20&message=Affinity%20Studio&color=%23000000&labelColor=%23ff000000&logo=affinity&logoColor=%23FFFFFFFF)
     ![figma](https://img.shields.io/static/v1?label=%20&message=Figma&color=%23fff&labelColor=%23ff000000&logo=figma&logoColor=%23fff)
     ![unity3d](https://img.shields.io/static/v1?label=%20&message=Unity3d&color=%23FFFFFF&labelColor=%23ff000000&logo=unity&logoColor=%23FFFFFF)
     ![android studio](https://img.shields.io/static/v1?label=%20&message=Android%20Studio&color=%233DDC84&labelColor=%23ff000000&logo=androidstudio&logoColor=%233DDC84)
