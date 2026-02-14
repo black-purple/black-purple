@@ -15,7 +15,7 @@ about_me.txt
 alias aboutme="cat ~/about_me.txt"
 echo "Hi there 👋"
 [black-purple@github ~ ]$ aboutme
-"I discovered my passion for software developement when I was 14,
+"I discovered my passion for software development when I was 14,
 and since then I kept nourishing my curiosity on multiple topics 
 be it software related or not
 
