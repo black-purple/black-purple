@@ -35,7 +35,7 @@ I fiddle with other technologies to stay up to date and make some hobby side pro
 
 * ### I code with ->
     ![HTML](https://img.shields.io/static/v1?label=%20&message=HTML&color=%23E34F26&labelColor=%23ff000000&logo=HTML5)
-    ![CSS](https://img.shields.io/static/v1?label=%20&message=CSS&color=%231572B6&labelColor=%23ff000000&logo=Css3&logoColor=%231572B6)
+    ![Static Badge](https://img.shields.io/badge/CSS-purple?logo=css&logoColor=%23663399&labelColor=%231F1F1F&color=%23663399)
     ![BootSTrap](https://img.shields.io/static/v1?label=%20&message=BootStrap&color=%237952B3&labelColor=%23ff000000&logo=BootStrap)
     ![Tailwind](https://img.shields.io/static/v1?label=%20&message=Tailwind&color=%2306B6D4&labelColor=%23ff000000&logo=tailwindcss)
     ![SCSS](https://img.shields.io/static/v1?label=%20&message=SASS&color=%23CC6699&labelColor=%23ff000000&logo=sass)
